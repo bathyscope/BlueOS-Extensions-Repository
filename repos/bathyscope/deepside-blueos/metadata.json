@@ -1,0 +1,6 @@
+{
+    "name": "Bathyscope Deepside",
+    "website": "https://bathyscope.io",
+    "docker": "public.ecr.aws/bathyscope/deepside-blueos",
+    "description": "BlueOS integration for Bathyscope Topside - a cloud-native UUV operations platform"
+}
