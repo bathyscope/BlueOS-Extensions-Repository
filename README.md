@@ -9,7 +9,7 @@ For publishing a new extension, open a pull request to this repository with the 
 
 ## Data in this repository
 
-/repos/yourcompany/yourextension/metadata.json
+`/repos/yourcompany/yourextension/metadata.json`
 ```
 {
     "name": "The Name of Your Extension",
@@ -19,10 +19,10 @@ For publishing a new extension, open a pull request to this repository with the 
 }
 ```
 
-/repos/yourcompany/yourextension/company_logo.png
+`/repos/yourcompany/company_logo.png`
 Your company logo
 
-/repos/yourcompany/yourextension/extension_logo.png
+`/repos/yourcompany/yourextension/extension_logo.png`
 Your extension logo
 
 ## Data in dockerhub
